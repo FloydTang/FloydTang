@@ -14,31 +14,37 @@
 把 Codex 从“程序员工具”，翻译成外贸企业的 AI 作战台。  
 适合外贸老板、销售、运营、团队负责人先完整翻一遍，再用 GitHub 版本作为 AI 智能体学习资料。
 
-### 2. 外贸主动开发 Skill 组合
+### 2. 半斤九两 Codex 无限设计画布
+
+[FloydTang/bjjl-codex-infinite-design-canvas](https://github.com/FloydTang/bjjl-codex-infinite-design-canvas)
+
+把 Codex、Image Gen 和 Excalidraw 组合成一个可复用的本地设计协作工作流：AI 生成图片，画布负责评审标注，人负责判断方向，下一轮再由 AI 继续迭代。
+
+### 3. 外贸主动开发 Skill 组合
 
 [FloydTang/trade-skills-collection](https://github.com/FloydTang/trade-skills-collection)
 
 围绕客户搜索、线索整理、客户背调、开发信和主动开发闭环，把外贸获客动作拆成可复用的 Skill。
 
-### 3. 外贸客户情报 Skill
+### 4. 外贸客户情报 Skill
 
 [FloydTang/trade-customer-intel](https://github.com/FloydTang/trade-customer-intel)
 
 用公开网页线索生成中英双语、证据可复核的客户背调报告，帮助外贸销售在触达前先判断客户是否值得跟进。
 
-### 4. 九两 IP 场景图 Skill
+### 5. 九两 IP 场景图 Skill
 
 [FloydTang/jiuliang-scenes](https://github.com/FloydTang/jiuliang-scenes)
 
 把中文文章、公众号、PPT 和课程观点，转成“卡通九两 + 真实物件 + 一个物理动作 + 短中文标签”的可发布场景图。
 
-### 5. Tang92 IP Assistants
+### 6. 半斤九两 IP Assistants
 
-[FloydTang/tang92-ip-assistants](https://github.com/FloydTang/tang92-ip-assistants)
+[FloydTang/bjjl-ip-assistants](https://github.com/FloydTang/bjjl-ip-assistants)
 
 把产品知识、客户经验、表达方式和判断逻辑喂给 AI，让每个人逐步拥有一个更像自己的 AI 助手。
 
-### 6. Mars Memory Engine
+### 7. Mars Memory Engine
 
 [FloydTang/mars-memory-engine](https://github.com/FloydTang/mars-memory-engine)
 
